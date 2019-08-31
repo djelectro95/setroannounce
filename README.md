@@ -15,4 +15,4 @@ Download from this.
 
 ```start setroannounce```
 
-Thanks to my friend @Elbarjo (github.com/ElBarjo) to help me
+Thanks to my friend @Elbarjo (https://github.com/ElBarjo) to help me
